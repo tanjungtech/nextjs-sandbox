@@ -1,4 +1,4 @@
-// File: /Users/faridtanjung/workspace/nextjs-dashboard/app/dashboard/page.tsx
+// File: /Users/faridtanjung/workspace/nextjs-sandbox/app/dashboard/page.tsx
 import * as entry from '../../../../app/dashboard/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
